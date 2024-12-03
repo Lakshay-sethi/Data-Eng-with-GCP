@@ -2,6 +2,9 @@
 
 An end-to-end modern data engineering project, including deployment of ETL pipeline on Google Cloud Platform, using BigQuery for data analysis and leveraging Looker to generate an insight dashboard.
 
+## Architecture
+<img width="1258" alt="Project Architecture" src="https://github.com/Lakshay-sethi/Data-Eng-with-GCP/blob/main/assets/architecture.png">
+
 ## Technology Stack
 
 Languages:
@@ -27,6 +30,14 @@ The dataset is provided by TLC Trip Record Data, including yellow and green taxi
 Data source link: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Data Modeling
+![Uber Data Model](https://github.com/Lakshay-sethi/Data-Eng-with-GCP/blob/main/assets/data_model.png)
+
+## Looker
+https://github.com/user-attachments/assets/7009b248-a1f9-43c3-828a-e2ae83a057ac
+
+
 
 ## Insipred by
 
